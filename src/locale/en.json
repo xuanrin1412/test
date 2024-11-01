@@ -1,0 +1,10 @@
+{
+    "translation": {
+        "specificKey": "Translated Value",
+        "headerTitle": "This is logo's company {{appName}}",
+        "accordingItem": "According Item",
+        "aboutPart": "About Company",
+        "contact": "Contact Us",
+        "header": "This is Header"
+    }
+}
